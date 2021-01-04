@@ -3,49 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.com/about/</loc>
+    <loc>https://li-pie.github.io/about/</loc>
     <lastmod>2021-01-04T22:24:52+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/about/flist/</loc>
+    <loc>https://li-pie.github.io/about/flist/</loc>
     <lastmod>2021-01-04T22:24:52+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://li-pie.github.io/</loc>
     <lastmod>2021-01-04T22:24:52+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/about/test/</loc>
+    <loc>https://li-pie.github.io/about/test/</loc>
     <lastmod>2021-01-04T21:48:57+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/post/</loc>
+    <loc>https://li-pie.github.io/post/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/post/test/</loc>
+    <loc>https://li-pie.github.io/post/test/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/categories/</loc>
+    <loc>https://li-pie.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/project/</loc>
+    <loc>https://li-pie.github.io/project/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/tags/</loc>
+    <loc>https://li-pie.github.io/tags/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/project/test/</loc>
+    <loc>https://li-pie.github.io/project/test/</loc>
   </url>
   
 </urlset>

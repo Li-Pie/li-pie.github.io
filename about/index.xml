@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on 하루개발</title>
-    <link>http://example.com/about/</link>
+    <link>https://li-pie.github.io/about/</link>
     <description>Recent content in Abouts on 하루개발</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jan 2021 22:24:52 +0900</lastBuildDate><atom:link href="http://example.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 22:24:52 +0900</lastBuildDate><atom:link href="https://li-pie.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>flist</title>
-      <link>http://example.com/about/flist/</link>
+      <link>https://li-pie.github.io/about/flist/</link>
       <pubDate>Mon, 04 Jan 2021 22:24:52 +0900</pubDate>
       
-      <guid>http://example.com/about/flist/</guid>
+      <guid>https://li-pie.github.io/about/flist/</guid>
       <description>flist</description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>http://example.com/about/test/</link>
+      <link>https://li-pie.github.io/about/test/</link>
       <pubDate>Mon, 04 Jan 2021 21:48:57 +0900</pubDate>
       
-      <guid>http://example.com/about/test/</guid>
+      <guid>https://li-pie.github.io/about/test/</guid>
       <description></description>
     </item>
     
